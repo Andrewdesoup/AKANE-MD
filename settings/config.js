@@ -1,31 +1,31 @@
 const fs = require('fs')
 const chalk = require('chalk')
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['62']
+global.owner = ['233500850221']
 
 global.gambar = "https://files.catbox.moe/zhbsht.jpg"
-global.owner = "2349151874246" //owner number
+global.owner = "233500850221" //owner number
 global.bankname = "OPAY WALLET"
 
-global.banknumber = "9031251624"
+global.banknumber = "0500850221"
 
-global.bankowner = "MOSES"
-global.creatorName = "𝕽𝖎𝖈𝖍𝖎𝖊"
-global.ownernumber = '2349151874246'  //creator number
-global.location = "Nigeria, Ogun-state, ilese"
+global.bankowner = "Agnes"
+global.creatorName = "Andrew"
+global.ownernumber = '233500850221'  //creator number
+global.location = "Ghana, Accra"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
-global.footer = "𝕽𝖎𝖈𝖍𝖎𝖊" //footer section
+global.footer = "Andrew" //footer section
 global.link = "https://whatsapp.com/channel/0029Vav3pek65yD9mqSgd21B"
-global.autobio = true//auto update bio
+global.autobio = false//auto update bio
 global.botName = "AKANE ⚡"
 global.version = "𝙑𝟭"
 global.botname = "AKANE MD"
-global.author = "_𝗥𝗜𝗖𝗛𝗜𝗘_"
+global.author = "Andrew"
 global.themeemoji = '🀄'
 global.wagc = 'https://chat.whatsapp.com/BW2DeGMj0tVGbdgHFtHvj8'
 global.thumbnail = 'https://files.catbox.moe/l9gpzm.jpg'
-global.ownername = '_𝗥𝗜𝗖𝗛𝗜𝗘_' 
+global.ownername = 'Andrew' 
 global.onlyowner = `𝘴𝘰𝘳𝘳𝘺 𝘰𝘯𝘭𝘺 𝘧𝘰𝘳  𝘰𝘸𝘯𝘦𝘳𝘴
 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘙𝘪𝘤𝘩𝘪𝘦 𝘵𝘰 𝘣𝘦 𝘢𝘯 𝘰𝘸𝘯𝘦𝘳`
   // reply 
